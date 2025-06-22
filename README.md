@@ -150,6 +150,10 @@ It covers everything from basic syntax to object-oriented programming, Spring Fr
 1. Each file covers a specific topic with summary comments, a `main()` method, and example executions.  
 2. Write and run the code yourself to reinforce learning.  
 3. Commit your progress with meaningful messages, for example:
+```
+feat: Add Arrays.java with loop examples
+fix: Correct constructor chaining in Constructors.java
+```
 
 ---
 
